@@ -17,11 +17,11 @@ public class ResourceAllocator {
     financeHead.addReportee(manager1);
     financeHead.showEmployeeDetails();
 
-//    financeHead.addReportee(dev3);
-//    financeHead.addReportee(dev4);
-//    financeHead.addReportee(manager2);
-//    financeHead.addReportee(manager3);
-//    financeHead.showEmployeeDetails();
+    financeHead.addReportee(dev3);
+    financeHead.addReportee(dev4);
+    financeHead.addReportee(manager2);
+    financeHead.addReportee(manager3);
+    financeHead.showEmployeeDetails();
 
   }
 }
