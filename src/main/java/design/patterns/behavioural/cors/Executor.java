@@ -17,7 +17,7 @@ public class Executor {
 
     Executor executor= new Executor();
 
-    Currency currency = new Currency(4900);
+    Currency currency = new Currency(2900);
     executor.dispenseChain1.dispense(currency);
   }
 }
